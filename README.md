@@ -29,3 +29,12 @@ jupyter notebook
 ```
 
 - Access Jupyter Notebook at http://localhost:8888
+
+---
+
+- Be sure to lock all dependencies and include in repository (execute in shell). This will create a requirements.txt file in your project directory, listing all the libraries in your environment along with their versions.
+
+```bash
+pip freeze > requirements.txt
+```
+
