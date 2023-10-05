@@ -38,3 +38,9 @@ jupyter notebook
 pip freeze > requirements.txt
 ```
 
+- When the user clones this repository down, use pip to install the requirements dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+---
