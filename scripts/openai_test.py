@@ -1,7 +1,5 @@
+from dotenv import load_dotenv
+load_dotenv()
+
 import os
-import openai
-
-
-openai.api_key = ''
-
-print(openai.Model.list())
+print(os.getenv('OPENAI_KEY'))
