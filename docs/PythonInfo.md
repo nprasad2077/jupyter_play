@@ -2,7 +2,7 @@
 
 Creating a Conda environment provides an isolated workspace for your project, ensuring that the libraries for different projects don't interfere with each other. This can be very helpful when different projects require different versions of the same library.
 
-pip install -r requirements.txt is a standard way to ensure that all necessary Python dependencies are installed correctly. Even though you might have used Conda to manage your environments, you're still likely using pip as your package installer within those environments.
+`pip install -r requirements.txt` is a standard way to ensure that all necessary Python dependencies are installed correctly. Even though you might have used Conda to manage your environments, you're still likely using pip as your package installer within those environments.
 
 So, these two things serve different purposes and they can coexist perfectly:
 
