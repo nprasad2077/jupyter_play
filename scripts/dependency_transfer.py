@@ -1,5 +1,7 @@
 import yaml
 
+# Move script to base repo before use.
+
 # Load requirements.txt
 with open('requirements.txt', 'r') as f:
     pip_packages = f.read().splitlines()
