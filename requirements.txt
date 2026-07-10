@@ -48,7 +48,7 @@ jupyterlab_server @ file:///croot/jupyterlab_server_1680792501448/work
 lxml @ file:///croot/lxml_1695058164555/work
 MarkupSafe @ file:///opt/conda/conda-bld/markupsafe_1654597864307/work
 matplotlib-inline @ file:///opt/conda/conda-bld/matplotlib-inline_1662014470464/work
-mistune==0.8.4
+mistune==3.3.0
 nbclassic @ file:///croot/nbclassic_1681756170010/work
 nbclient @ file:///tmp/build/80754af9/nbclient_1650308366712/work
 nbconvert @ file:///croot/nbconvert_1668450669124/work
